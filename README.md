@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mohd Aaquib,<br>A passionate Blockchain developer from India<br><br>🌱 I’m currently learning Rust<br>💬 Ask me about Blockchain,Ethererum,Solidity,Smart Contracts,Ethers.js,Hardhat,Foundry,React.js,NodeJS,Express,js,MongoDB,TwailwindCSS
+Hi 👋, I'm Mohd Aaquib,<br>I'm a passionate blockchain developer focused on building full-stack decentralized applications. I work with Solidity to write smart contracts and use tools like Hardhat and Ethers.js to deploy and interact with them. On the frontend, I use React.js and TailwindCSS to create smooth, user-friendly interfaces. I enjoy turning ideas into real DApps that solve real problems on the blockchain.<br>🌱 I’m currently learning Rust<br>💬 Ask me about Blockchain,Ethererum,Solidity,Smart Contracts,Ethers.js,Hardhat,Foundry,React.js,NodeJS,Express,js,MongoDB,TwailwindCSS
 
 
 ## 🌐 Socials:
