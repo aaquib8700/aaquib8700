@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on making Real time Chat Application, learning Postgress & Prisma, and looking for opportunities to contribute to open source. Feel free to ask me about anything code-related!!
+I'm currently working on making Real time Chat Application, learning Postgress & Prisma, and looking for opportunities to contribute to open source. Feel free to ask me about anything code-related!!!!
 
 
 ## 🌐 Socials:
